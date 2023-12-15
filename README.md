@@ -8,7 +8,6 @@ Este repositório contém um projeto de mercado online desenvolvido com Django, 
 
     ```bash
     git clone git@github.com:igopereira1/django-online-marketplace.git
-    cd marketplace
     ```
 
 2. **Criação do Ambiente e Instalação de Dependências:**
